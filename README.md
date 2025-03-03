@@ -1,6 +1,6 @@
 # EchoServe AI - AI-Powered Customer Voice Support
 
-![EchoServe AI](https://github.com/sasank-sasi/EchoServe-AI/banner.png)
+![EchoServe🎧]
 
 ## Overview
 **EchoServe AI** is an intelligent AI-powered voice support agent designed to enhance customer service by providing real-time, natural voice interactions. It leverages advanced **LLM-powered conversational AI**, **speech-to-text**, and **text-to-speech** models for seamless and efficient query resolution.
